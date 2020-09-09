@@ -3,9 +3,9 @@
 My study guide for react hooks. 
 
 ## Resources
-  General Assembly - Hooks - James
-  YouTube - WE
-  React Homepage - https://reactjs.org/docs/hooks-intro.html
+  - General Assembly : Hooks - James
+  - YouTube : Learn useState In 15 Minutes - React Hooks Explained - Web Dev Simplified 
+  - React Homepage - https://reactjs.org/docs/hooks-intro.html
 ## Installation
 ```
 git clone https://github.com/seheesf88/study_react_01_hooks.git
