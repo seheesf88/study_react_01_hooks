@@ -8,8 +8,8 @@ My study guide for react hooks.
   React Homepage - https://reactjs.org/docs/hooks-intro.html
 ## Installation
 ```
-git clone 
-cd 
+git clone https://github.com/seheesf88/study_react_01_hooks.git
+cd study_react_01_hooks
 npm install 
 ```
 ## What is HOOKS?
